@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ki-FNT9D)
+Laboratorio N°1 - Diseño e Implementación de una ALU de 4 bits
+
+Objetivos
+● Comprender el funcionamiento de una Unidad Aritmética-Lógica (ALU) elemental.
+● Integrar diferentes módulos lógicos y aritméticos de forma estructural.
+● Comprender el concepto de diseño jerárquico en sistemas digitales.
+● Utilizar el entorno de desarrollo de AMD Vivado para la creación, simulación y síntesis de diseños digitales.
+● Verificar la funcionalidad de los módulos implementados mediante simulación.
+● Implementar el diseño en una plataforma basada en FPGA (AMD Boolean Board).
