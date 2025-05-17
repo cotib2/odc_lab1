@@ -1,5 +1,5 @@
 # Laboratorio 1: ALU 4 bits
-Organización del Computador 2025 - FAMAF
+Organización del Computador 2025 - FAMAF.
 
 ## Objetivos
 - Comprender el funcionamiento de una Unidad Aritmética-Lógica (ALU) elemental.
@@ -82,3 +82,6 @@ resta.
 - Editar el archivo alu.sv de la carpeta src para describir estructuralmente el circuito obtenido en el punto anterior.  
 Para esto, instanciar la cantidad de módulos necesarios de compuertas lógicas, multiplexores y sumadores.  
 Recordar definir además todas las señales de conexión internas.
+
+## Integrantes del grupo
+Constanza Buteler, Felipe Garcia Bazan, Ulises Valentin Ortiz y Lucas Samana.
